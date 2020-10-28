@@ -1,0 +1,15 @@
+.App {
+  align-items: center;
+  display: block;
+  justify-content: center;
+  color: white;
+  min-height: 100vh;
+}
+.header {
+  font-size: 2rem;
+  min-height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
